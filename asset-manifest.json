@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/one-bit/static/css/main.df3bed14.css",
-    "main.js": "/one-bit/static/js/main.37b4f871.js",
+    "main.css": "/one-bit/static/css/main.4946eb07.css",
+    "main.js": "/one-bit/static/js/main.86cd5383.js",
     "index.html": "/one-bit/index.html",
-    "main.df3bed14.css.map": "/one-bit/static/css/main.df3bed14.css.map",
-    "main.37b4f871.js.map": "/one-bit/static/js/main.37b4f871.js.map"
+    "main.4946eb07.css.map": "/one-bit/static/css/main.4946eb07.css.map",
+    "main.86cd5383.js.map": "/one-bit/static/js/main.86cd5383.js.map"
   },
   "entrypoints": [
-    "static/css/main.df3bed14.css",
-    "static/js/main.37b4f871.js"
+    "static/css/main.4946eb07.css",
+    "static/js/main.86cd5383.js"
   ]
 }
