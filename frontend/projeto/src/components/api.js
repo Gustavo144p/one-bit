@@ -26,7 +26,7 @@ const products = [
             "Espresso, leite vaporizado e espuma cremosa.",
         price: 14.90,
         image:
-            "https://images.unsplash.com/photo-1572449043416-55f6aebad4f2?auto=format&fit=crop&w=700&q=90"
+            "https://images.pexels.com/photos/6747870/pexels-photo-6747870.jpeg"
     }
 ];
 
