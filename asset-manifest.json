@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/one-bit/static/css/main.df3bed14.css",
+    "main.js": "/one-bit/static/js/main.37b4f871.js",
+    "index.html": "/one-bit/index.html",
+    "main.df3bed14.css.map": "/one-bit/static/css/main.df3bed14.css.map",
+    "main.37b4f871.js.map": "/one-bit/static/js/main.37b4f871.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3bed14.css",
+    "static/js/main.37b4f871.js"
+  ]
+}
